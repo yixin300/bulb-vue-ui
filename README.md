@@ -4,7 +4,7 @@
 ![npm](https://img.shields.io/npm/v/ice-vue-ui)
 ## 介绍
 
-ce-UI 是一个基于 Vue 的 UI 组件库，目前包括有 Button、Tabs、Input、Grid、
+Bulb-UI 是一个基于 Vue 的 UI 组件库，目前包括有 Button、Tabs、Input、Grid、
 Layout、Toast、Collapse、Popover 组件。项目尚未完工，持续更新中。
 
 ## 开始使用

@@ -1,5 +1,6 @@
 # Bulb-UI
 
+[![Build Status](https://travis-ci.org/yixin300/bulb-vue-ui.svg?branch=master)](https://travis-ci.org/yixin300/bulb-vue-ui)
 ![npm](https://img.shields.io/npm/v/bulb-vue-ui)
 ## 介绍
 

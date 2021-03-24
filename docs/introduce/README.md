@@ -2,8 +2,8 @@
 title: 介绍
 ---
 
-[![Build Status](https://travis-ci.org/Orange-ice/Ice-UI.svg?branch=master)](https://travis-ci.org/Orange-ice/Ice-UI)
-![npm](https://img.shields.io/npm/v/ice-vue-ui)
+[![Build Status](https://travis-ci.org/yixin300/bulb-vue-ui.svg?branch=master)](https://travis-ci.org/yixin300/bulb-vue-ui)
+![npm](https://img.shields.io/npm/v/bulb-vue-ui)
 
 # 介绍
 

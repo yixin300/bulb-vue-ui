@@ -1,5 +1,5 @@
 {
-  "name": "ice-vue-ui",
+  "name": "bulb-vue-ui",
   "version": "1.0.0",
   "description": "一个简易快捷的UI组件库",
   "main": "dist/index.js",
@@ -8,11 +8,12 @@
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Orange-ice/Ice-UI.git"
+    "url": "git+https://github.com:yixin300/bulb-vue-ui.git"
   },
   "keywords": [
     "vue",
@@ -21,9 +22,9 @@
   "author": "Burt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Orange-ice/Ice-UI/issues"
+    "url": "https://github.com:yixin300/bulb-vue-ui.git"
   },
-  "homepage": "https://github.com/Orange-ice/Ice-UI#readme",
+  "homepage": "https://github.com:yixin300/bulb-vue-ui#readme",
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11",

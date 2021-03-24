@@ -7,7 +7,7 @@ title:快速上手
 ### npm 安装
 
 ```bash
-npm i ice-vue-ui -S
+npm i bulb-vue-ui -S
 ```
 
 ### 开始使用
@@ -29,8 +29,8 @@ IE 8及以上浏览器都支持此样式
 需要注意的是，样式文件要记得引入。
 
 ```js
-import {Button, ButtonGroup, Icon} from 'ice-vue-ui'
-import 'ice-vue-ui/dist/index.css'
+import {Button, ButtonGroup, Icon} from 'bulb-vue-ui'
+import 'bulb-vue-ui/dist/index.css'
 
 export default {
   name: 'app',
@@ -68,7 +68,7 @@ import {
     Collapse,
     CollapseItem
 
-} from 'ice-vue-ui'
+} from 'bulb-vue-ui'
 
 Vue.component('i-button', Button)
 Vue.component('i-icon', Icon)

@@ -1,13 +1,13 @@
 module.exports = {
-  base:'/ice-ui/',
-  title: 'Ice-UI',
+  base:'/bulb-vue-ui/',
+  title: 'Bulb-UI',
   description: '一个简约、易用的 UI 框架',
   themeConfig: {
     logo: '/assets/img/logo.png',
     nav: [
       {text: '主页', link: '/'},
       {text: '文档', link: '/get-started/'},
-      {text: 'Github', link: 'https://github.com/Orange-ice/Ice-UI'},
+      {text: 'Github', link: 'https://yixin300.github.io/bulb-vue-ui/'},
     ],
     displayAllHeaders: true, // 默认值：false
     sidebar: [

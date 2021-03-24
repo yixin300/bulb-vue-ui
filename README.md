@@ -1,4 +1,4 @@
-# Ice-UI
+# Bulb-UI
 
 [![Build Status](https://travis-ci.org/Orange-ice/Ice-UI.svg?branch=master)](https://travis-ci.org/Orange-ice/Ice-UI)
 ![npm](https://img.shields.io/npm/v/ice-vue-ui)
@@ -19,17 +19,17 @@ Layout、Toast、Collapse、Popover 组件。项目尚未完工，持续更新�
 
 IE 8 及以上浏览器都支持此样式。
 
-2. 安装 ice-vue-ui
+2. 安装 bulb-vue-ui
 
 ```bash
-npm i --save ice-vue-ui
+npm i --save bulb-vue-ui
 ```
 
-3. 引入 ice-vue-ui
+3. 引入 bulb-vue-ui
 
 ```js
-import {Button, ButtonGroup, Icon} from 'ice-vue-ui'
-import 'ice-vue-ui/dist/index.css'
+import {Button, ButtonGroup, Icon} from 'bulb-vue-ui'
+import 'bulb-vue-ui/dist/index.css'
 
 export default {
   name: 'app',
@@ -41,7 +41,7 @@ export default {
 ```
 ## 文档
 
-[前往官网](https://orange_ice.gitee.io/ice-ui)
+[前往官网](https://yixin300.github.io/bulb-vue-ui/)
 
 ## 联系方式
 

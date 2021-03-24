@@ -4,7 +4,7 @@
 ## 介绍
 
 Bulb-UI 是一个基于 Vue 的 UI 组件库，目前包括有 Button、Tabs、Input、Grid、
-Layout、Toast、Collapse、Popover 组件。项目尚未完工，持续更新中。
+Layout、Toast、Collapse、Popover 组件。
 
 ## 开始使用
 
